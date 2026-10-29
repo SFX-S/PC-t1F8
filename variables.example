@@ -1,0 +1,13 @@
+# Add these separately in the hosting service's Variables tab.
+# This file is documentation; it does not set Railway variables automatically.
+PORT=8080
+CUSTOM_USER=admin
+PASSWORD=<GENERATE_A_PRIVATE_PASSWORD_OF_AT_LEAST_20_CHARACTERS>
+TZ=Asia/Amman
+PUID=1000
+PGID=1000
+RAILWAY_RUN_UID=0
+BROWSER_AUTO_START=false
+DESKTOP_WIDTH=1280
+DESKTOP_HEIGHT=800
+

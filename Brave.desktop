@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Brave
+Comment=Open your cloud browser
+Exec=/usr/local/bin/cloud-brave %U
+Icon=brave-browser
+Terminal=false
+Categories=Network;WebBrowser;
+
